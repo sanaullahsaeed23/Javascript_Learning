@@ -21,7 +21,7 @@
     // Accessing the object
     // Using .
     // console.log(jsUser.email);
-    // cannot access jsUser.full name with . operator, for this type of keys squre notion is used
+    // cannot access (jsUser.full name) with . operator, for this type of keys squre notion is used
     // using squre brackets and the key as string
     // console.log(jsUser["location"]);
     // console.log(jsUser["full name"]);
