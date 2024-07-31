@@ -5,7 +5,7 @@
 
     const mySym = Symbol("key1");
 
-    // Object Literals
+    // Object Literals => squre brackets method {}
     const jsUser = {
         name: "Sanaullah",
         "full name": "Sanaullah Saeed",
