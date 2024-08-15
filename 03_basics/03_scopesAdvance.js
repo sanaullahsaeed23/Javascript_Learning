@@ -28,6 +28,7 @@ parent();
 
 //lets call funciton first and then declear it
 console.log( addOne(4));  // function is accessible 
+
 function addOne(num) {
     return num + 1;
 }
@@ -43,4 +44,4 @@ const addTwo = function (num) {
 
 console.log(addTwo(8));  //   returns "10"
 
-// So this concept is known as "Hoisting"
+// So this concept is known as "Hoisting" that first declear/define the function and then call it
